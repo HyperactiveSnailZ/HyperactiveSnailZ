@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HyperactiveSnailZ
+- 👋 Hi, I’m @JN
 - 👀 I’m interested in creating and exploring new things // from behind a screen
 - 🌱 I’m currently learning js,python, ethical hacking .. 
 - 💞️ I’m looking to collaborate on ... working on it
